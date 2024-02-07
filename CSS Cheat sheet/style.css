@@ -1,0 +1,33 @@
+table, th, td {
+    border: 3px solid blueviolet;
+    width: 700px;
+    margin: 0 auto;
+   }
+  h1 {
+    font-size: 40px;
+    font-family: Arial, monospace, sans-serif;
+    color: cornflowerblue;
+  }
+  h1, h2 {
+    text-align: center;
+  }
+  
+  h2 {
+    color: slateblue;
+  }
+  
+  th {
+    background-color: blueviolet;
+  }
+  
+  body {
+    font-family: monospace;
+    background-color: SeaShell;
+    background-image: url(https://img.freepik.com/free-vector/hand-painted-watercolor-pastel-sky-background_23-2148902771.jpg?w=1800&t=st=1707269205~exp=1707269805~hmac=6a34861bb4b33a3f54b8e345ef49cfcfd8d48e0b37ce0550ad43043ec16f2c46);
+  }
+  
+  .code {
+    background-color: skyblue;
+    font-family: monospace;
+  }
+  
